@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there, it's Danedevz 👋
+You can call me Dane. I have big passion towards programming especially Front-End Web Development.
+
+- 🖥️ My Current Stack: React, Tailwind CSS
+- 💬 My Main Language: Javascript, Typescript, Python
+- 📫 How to reach me:
+  LinkedIn: www.linkedin.com/in/muhammad-zidane-baguspratama-612238248
 
 <!--
 **Danedevz/Danedevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
