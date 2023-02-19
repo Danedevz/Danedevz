@@ -4,7 +4,7 @@ You can call me Dane. I have big passion towards programming especially Front-En
 - 🖥️ My Current Stack: React, Tailwind CSS
 - 💬 My Main Language: Javascript, Typescript, Python
 - 📫 How to reach me: <br/>
-  - [LinkedIn](https://www.linkedin.com/in/muhammad-zidane-baguspratama-612238248)
+  [LinkedIn](https://www.linkedin.com/in/muhammad-zidane-baguspratama-612238248)
 
 ### Skills
 
