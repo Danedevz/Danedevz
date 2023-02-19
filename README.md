@@ -5,9 +5,11 @@ You can call me Dane. I have big passion towards programming especially Front-En
 - 💬 My Main Language: Javascript, Typescript, Python
 - 📫 How to reach me: <br/>
   - [LinkedIn](https://www.linkedin.com/in/muhammad-zidane-baguspratama-612238248)
-<br/>
+
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,html,css,react,tailwind,py&perline=3)](https://skillicons.dev)
 <!--
 **Danedevz/Danedevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
